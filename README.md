@@ -1,0 +1,1 @@
+# JS-immutable-object
